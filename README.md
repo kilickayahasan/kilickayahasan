@@ -1,32 +1,34 @@
 # Hi there, I'm Hasan Kılıçkaya! 👋
 
-## 🚀 About Me
-🎯 **Electrical & Electronics Engineer** | 🧠 **AI & Robotics Enthusiast** | ⚡ **Quantum Physics Explorer**  
-Ben, teknolojiyi seven, sürekli öğrenen ve gelişen bir mühendis ve yazılımcıyım. Yapay zeka, veri analizi, makine öğrenmesi ve kuantum hesaplama alanlarına büyük ilgi duyuyorum. Python programlama dili ile projeler geliştiriyorum ve **geleceğin teknolojilerine katkıda bulunmak istiyorum.** 💡
+##  About Me
 
----
+**Electrical & Electronics Engineer** | **Python Developer** | **Data Analysis & Automation Enthusiast**  
 
-## 🔥 My Skills & Interests
-💻 **Programming:** Python (AI, ML, Data Science), MATLAB, Java (Yakında!)  
-🤖 **Tech Interests:** Artificial Intelligence, Machine Learning, Robotics, Quantum Computing  
-📊 **Data & Analysis:** Pandas, NumPy, Matplotlib, TensorFlow, PyTorch  
-🌍 **Future Goals:** Global çapta projeler geliştirmek ve bir gün kendi teknoloji şirketimi kurmak! 🚀  
-
----
-
-## 🔨 Projects
-📌 **E-Ticaret Yönetim Sistemi** – Python ile basit bir e-ticaret yönetim uygulaması (Kullanıcı doğrulama, ürün ekleme/silme)  
-📌 **Kütüphane Yönetim Sistemi** – Kitap ekleme, silme ve listeleme işlemleriyle mini bir kütüphane yönetimi  
-📌 **Paralel Evren Simülatörü (Coming Soon)** – Yapay zeka destekli bir kuantum evren simülatörü 🛸  
-📌 **Yakında çok daha büyük projeler geliyor!** 🚀  
-
----
-
-## 📫 How to Reach Me
-🔗 [GitHub](https://github.com/kilickayahasan)  
-📧 Mail: hasankilickaya44@gmail.com 
+** I am an engineer and software developer who loves technology, is constantly learning and developing. I have a great interest in artificial intelligence, PyQt5, data analysis, and machine learning. I develop projects with the Python programming language and want to contribute to the technologies of the future.
+** I develop projects on Python, PyQt5, data analysis.
 
 
----
+##  My Skills & Interests
 
-⭐ **"Rabbimin iyi insanlar için her zaman mükemmel planları vardır."** ⭐ 
+** Python (Intermediate to Advanced Level)
+** Desktop apps with PyQt5 
+** Data analysis with Pandas, NumPy, Matplotlib, and Seaborn
+** SQLite and file-based data handling  
+
+##  Projects
+
+** E-Commerce Management System
+** Library Management System
+** Currency Project with PyQt5
+** Food Ordering System with PyQt5
+** Notebook Plus Project
+
+
+## Contact Me
+
+https://github.com/kilickayahasan/kilickayahasan
+hasankilickaya44@gmail.com
+
+
+
+⭐ **If you have a dream, never stop working for it. Small steps build great futures."** ⭐ 
